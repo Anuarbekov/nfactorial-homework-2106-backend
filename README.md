@@ -12,7 +12,7 @@
 
 ---
 
-### To add ToDo - localhost : 8080 / todo and write JSON to body**
+### To add ToDo - localhost : 8080 / todo and write JSON to body
 
 ---
 
