@@ -16,7 +16,7 @@
 
 ---
 
-### To change ToDo- localhost : 8080 / todo / change, then to JSON first parameter must be "id", then parameters that you want to change. Programm find by id that you showed in JSON.
+### To change ToDo - localhost : 8080 / todo / change, then to JSON first parameter must be "id", then parameters that you want to change. Programm find by id that you showed in JSON.
 
 ---
 
