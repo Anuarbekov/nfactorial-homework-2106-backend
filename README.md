@@ -6,6 +6,8 @@
 
 ### Sort ToDos by priority - localhost:8080 / todos / bypriority
 
+--- 
+
 ### To delete ToDo - localhost:8080 / todo / {id}
 
 ---
