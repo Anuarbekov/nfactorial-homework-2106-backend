@@ -1,23 +1,23 @@
 # nfactorial-homework-2106-backend
 
-### Sort by name - localhost:8080 / todos / byname
+### Sort ToDos by name - localhost:8080 / todos / byname
 
 ---
 
-### Sort by priority - localhost:8080 / todos / bypriority
+### Sort ToDos by priority - localhost:8080 / todos / bypriority
 
-### To delete - localhost:8080 / todo / {id}
-
----
-
-### To add - localhost:8080 / todo and write JSON to body**
+### To delete ToDo - localhost:8080 / todo / {id}
 
 ---
 
-### To change - localhost:8080 / todo / change, then to JSON first parameter must be "id", then parameters that you want to change. Programm find by id that you showed in JSON.
+### To add ToDo - localhost:8080 / todo and write JSON to body**
 
 ---
 
-### To find by name - localhost:8080 / todo / find / {name}. Programm find by name.
+### To change ToDo- localhost:8080 / todo / change, then to JSON first parameter must be "id", then parameters that you want to change. Programm find by id that you showed in JSON.
+
+---
+
+### To find ToDo by name - localhost:8080 / todo / find / {name}. Programm find by name.
 
 ---
